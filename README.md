@@ -1,4 +1,5 @@
 # pinkyswork
+![App Screenshot](https://blissful-spence-96c5f9.netlify.app/images/img_01.jpeg)
 
 # Responsive Designs
 This site those the following:

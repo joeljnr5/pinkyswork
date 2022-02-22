@@ -49,8 +49,7 @@ Please adhere to this project's `code of conduct`.
 
 Insert gif or link to demo
 
-https://github.com/joeljnr5/pinkyswork
-## Show your support
+https://camo.githubusercontent.com/9db67d578d7e1bdb3e620fa43204ffbe953227b525a706e35e32b59ce673a04e/68747470733a2f2f626c69737366756c2d7370656e63652d3936633566392e6e65746c6966792e6170702f696d616765732f696d675f30312e6a706567## Show your support
 Give 🌟 if you like this project
 ## License
 

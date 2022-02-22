@@ -45,12 +45,12 @@ See `contributing.md` for ways to get started.
 Please adhere to this project's `code of conduct`.
 
 
-## Demo
 
-Insert gif or link to demo
+## Live Demo
 
-https://camo.githubusercontent.com/9db67d578d7e1bdb3e620fa43204ffbe953227b525a706e35e32b59ce673a04e/68747470733a2f2f626c69737366756c2d7370656e63652d3936633566392e6e65746c6966792e6170702f696d616765732f696d675f30312e6a706567## Show your support
-Give 🌟 if you like this project
+ [Live demo link](https://blissful-spence-96c5f9.netlify.app/)
+
+
 ## License
 
 This project is [MIT](https://choosealicense.com/licenses/mit/)
